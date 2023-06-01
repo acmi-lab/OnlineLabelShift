@@ -1,5 +1,9 @@
 # Online Label Shift
 
+
+`OnlineLabelShift` is the official implementation of the accompanying paper [Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms](https://arxiv.org/pdf/2305.19570.pdf). We release the code from our paper. 
+For more details, please refer to the paper. 
+
 ## Setup Environment
 
 ```
