@@ -1,8 +1,12 @@
 # Online Label Shift
 
 
-`OnlineLabelShift` is the official implementation of the accompanying paper [Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms](https://arxiv.org/pdf/2305.19570.pdf). We release the code from our paper. 
+`OnlineLabelShift` is the official implementation of the accompanying paper [Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms](https://arxiv.org/pdf/2305.19570.pdf). 
 For more details, please refer to the paper. 
+
+<p align="center">
+  <img src="https://github.com/acmi-lab/OnlineLabelShift/assets/43626310/3be87ecf-641e-49d7-92a8-993825fabbeb" />
+</p>
 
 ## Setup Environment
 
